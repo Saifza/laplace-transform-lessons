@@ -33,3 +33,7 @@ Copy
 Edit
 jupyter notebook
 Enjoy exploring Laplace transforms interactively!
+
+## 🧾 License
+
+This project is licensed under the [MIT License](LICENSE).
